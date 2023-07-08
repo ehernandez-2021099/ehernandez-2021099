@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eldrick</h1>
 <h3 align="center">Soy un estudiante de programación</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehernandez-2021099&label=Profile%20views&color=0e75b6&style=flat" alt="ehernandez-2021099" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehernandez-2021099" alt="ehernandez-2021099" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -15,5 +11,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehernandez-2021099&show_icons=true&locale=en&layout=compact" alt="ehernandez-2021099" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehernandez-2021099&show_icons=true&locale=en" alt="ehernandez-2021099" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehernandez-2021099&" alt="ehernandez-2021099" /></p>
